@@ -1,0 +1,358 @@
+{
+  "app": "cargo_ops_v4",
+  "version": 1,
+  "exported": "2026-05-12T08:16:48.674Z",
+  "data": [
+    {
+      "id": 1778502393970,
+      "flt": "SH151/SH152",
+      "date": "2026-05-12",
+      "operator": "SOLITAIR",
+      "aircraft": "",
+      "orig": "DWC",
+      "dest": "MCT",
+      "status": "active",
+      "notes": "12-05-2026-08.00AM \nSTA-09.10 AM",
+      "awbs": [
+        {
+          "awbNum": "780-30114011",
+          "shipper": "AK GLOBAL LOGISTICS FZCO",
+          "consignee": "GREEN SPARK LOGISTICS COMPANY",
+          "gross": 0,
+          "tare": 0,
+          "net": 0,
+          "pcs": 31,
+          "pallets": []
+        },
+        {
+          "awbNum": "780-30115610",
+          "shipper": "AK GLOBAL LOGISTICS FZCO",
+          "consignee": "GREEN SPARK LOGISTICS COMPANY",
+          "gross": 4432,
+          "tare": 0,
+          "net": 4432,
+          "pcs": 32,
+          "pallets": []
+        },
+        {
+          "awbNum": "780-30115595",
+          "shipper": "KARA EXPRESS FZE",
+          "consignee": "GREEN SPARK LOGISTICS  COMPANY",
+          "gross": 2770,
+          "tare": 0,
+          "net": 2770,
+          "pcs": 0,
+          "pallets": []
+        },
+        {
+          "awbNum": "780-30114000",
+          "shipper": "TOP FORWARDER SHIPPING LLC",
+          "consignee": "GREEN SPARK LOGISTICS  COMPANY",
+          "gross": 915,
+          "tare": 0,
+          "net": 915,
+          "pcs": 6,
+          "pallets": []
+        },
+        {
+          "awbNum": "780-30115621",
+          "shipper": "JOINTLINE SHIPPING AND FORWARDING LLC",
+          "consignee": "GREEN SPARK LOGISTICS  COMPANY",
+          "gross": 719.5,
+          "tare": 0,
+          "net": 719.5,
+          "pcs": 4,
+          "pallets": []
+        },
+        {
+          "awbNum": "780-30115610",
+          "shipper": "AK GLOBAL LOGISTICS FZCO",
+          "consignee": "GREEN SPARK LOGISTICS COMPANY",
+          "gross": 4432,
+          "tare": 0,
+          "net": 4432,
+          "pcs": 32,
+          "pallets": []
+        }
+      ],
+      "totalGross": 13268.5,
+      "totalNet": 13268.5,
+      "totalPcs": 105,
+      "totalPallets": 0,
+      "docs": {
+        "awb": {
+          "status": "pending"
+        },
+        "inv": {
+          "status": "received",
+          "date": "2026-05-09",
+          "by": "NEDYA"
+        },
+        "pl": {
+          "status": "pending"
+        },
+        "exp": {
+          "status": "pending"
+        },
+        "boe": {
+          "status": "pending"
+        },
+        "pi": {
+          "status": "received",
+          "date": "",
+          "by": "Nedya"
+        },
+        "pop": {
+          "status": "received",
+          "date": "2026-05-09",
+          "by": "HISANA"
+        }
+      },
+      "offloads": [
+        {
+          "awb": "780-30115595",
+          "palletId": "",
+          "nPallets": 0,
+          "pcs": 11,
+          "kg": 2770,
+          "netKg": 0,
+          "reason": "weight",
+          "status": "pending",
+          "newFlt": "",
+          "newDate": "2026-05-14",
+          "notes": ""
+        },
+        {
+          "awb": "780-30115610",
+          "palletId": "",
+          "nPallets": 0,
+          "pcs": 9,
+          "kg": 566,
+          "netKg": 0,
+          "reason": "weight",
+          "status": "pending",
+          "newFlt": "",
+          "newDate": "2026-05-14",
+          "notes": ""
+        }
+      ],
+      "logged": "2026-05-11T12:26:33.970Z"
+    },
+    {
+      "id": 1778500980843,
+      "flt": "SH151",
+      "date": "2026-05-11",
+      "operator": "SOLITAIR",
+      "aircraft": "",
+      "orig": "DWC",
+      "dest": "MCT",
+      "status": "completed",
+      "notes": "",
+      "awbs": [
+        {
+          "awbNum": "780-30113996",
+          "shipper": "AK GLOBAL LOGISTICS FZCO",
+          "consignee": "GREEN SPARK LOGISTICS  COMPANY",
+          "gross": 9192,
+          "tare": 0,
+          "net": 9192,
+          "pcs": 32,
+          "pallets": []
+        },
+        {
+          "awbNum": "780-30114011",
+          "shipper": "ASTRAL RIDE LOGISTICS FZCO",
+          "consignee": "GREEN SPARK LOGISTICS COMPANY",
+          "gross": 19000,
+          "tare": 0,
+          "net": 19000,
+          "pcs": 5,
+          "pallets": [
+            {
+              "uid": "",
+              "type": "pallet",
+              "gross": 0,
+              "tare": 0,
+              "net": 0,
+              "pcs": 0,
+              "l": 0,
+              "w": 0,
+              "h": 0,
+              "contents": ""
+            }
+          ]
+        },
+        {
+          "awbNum": "780-30113985",
+          "shipper": "ALFATIN",
+          "consignee": "GREEN SPARK LOGISTICS COMPANY",
+          "gross": 0,
+          "tare": 0,
+          "net": 0,
+          "pcs": 31,
+          "pallets": []
+        }
+      ],
+      "totalGross": 28192,
+      "totalNet": 28192,
+      "totalPcs": 68,
+      "totalPallets": 1,
+      "docs": {
+        "awb": {
+          "status": "pending"
+        },
+        "inv": {
+          "status": "received",
+          "date": "2026-05-11",
+          "by": "NEDYA"
+        },
+        "pl": {
+          "status": "pending"
+        },
+        "exp": {
+          "status": "pending"
+        },
+        "boe": {
+          "status": "pending"
+        },
+        "pi": {
+          "status": "pending"
+        },
+        "pop": {
+          "status": "received",
+          "date": "",
+          "by": "Nedya"
+        }
+      },
+      "offloads": [
+        {
+          "awb": "780-30114011",
+          "palletId": "",
+          "nPallets": 0,
+          "pcs": 32,
+          "kg": 0,
+          "netKg": 0,
+          "reason": "weight",
+          "status": "pending",
+          "newFlt": "",
+          "newDate": "2026-05-12",
+          "notes": ""
+        }
+      ],
+      "logged": "2026-05-11T12:03:00.844Z"
+    },
+    {
+      "id": 1778491871870,
+      "flt": "SH153",
+      "date": "2026-05-11",
+      "operator": "SOLITAIR",
+      "aircraft": "",
+      "orig": "DWC",
+      "dest": "MCT",
+      "status": "completed",
+      "notes": "11-05-2026-08.00AM \nARRIVAL DATE LOCAL:09.10AM",
+      "awbs": [
+        {
+          "awbNum": "780-30113506",
+          "shipper": "JOINT LINES SHIPPING AND   FORWARDING",
+          "consignee": "GREEN SPARK LOGISTICS  COMPANY",
+          "gross": 5460,
+          "tare": 0,
+          "net": 5460,
+          "pcs": 20,
+          "pallets": []
+        },
+        {
+          "awbNum": "780-30113974",
+          "shipper": "AK GLOBAL LOGISTICS FZCO",
+          "consignee": "GREEN SPARK LOGISTICS  COMPANY",
+          "gross": 6936,
+          "tare": 0,
+          "net": 6936,
+          "pcs": 15,
+          "pallets": []
+        },
+        {
+          "awbNum": "780-30113532",
+          "shipper": "TOP SEVEN LOGISTICS FZCO",
+          "consignee": "GREEN SPARK LOGISTICS  COMPANY",
+          "gross": 6397,
+          "tare": 0,
+          "net": 6397,
+          "pcs": 21,
+          "pallets": []
+        },
+        {
+          "awbNum": "780-30113985",
+          "shipper": "ALFATIN FZCO",
+          "consignee": "GREEN SPARK LOGISTICS  COMPANY",
+          "gross": 7606,
+          "tare": 0,
+          "net": 7606,
+          "pcs": 13,
+          "pallets": [
+            {
+              "uid": "",
+              "type": "pallet",
+              "gross": 0,
+              "tare": 0,
+              "net": 0,
+              "pcs": 0,
+              "l": 0,
+              "w": 0,
+              "h": 0,
+              "contents": ""
+            }
+          ]
+        }
+      ],
+      "totalGross": 26399,
+      "totalNet": 26399,
+      "totalPcs": 69,
+      "totalPallets": 1,
+      "docs": {
+        "awb": {
+          "status": "pending"
+        },
+        "inv": {
+          "status": "pending"
+        },
+        "pl": {
+          "status": "pending"
+        },
+        "exp": {
+          "status": "pending"
+        },
+        "boe": {
+          "status": "pending"
+        },
+        "pi": {
+          "status": "received",
+          "date": "2026-05-09",
+          "by": "Hisana"
+        },
+        "pop": {
+          "status": "received",
+          "date": "2026-05-11",
+          "by": "Nedya"
+        }
+      },
+      "offloads": [
+        {
+          "awb": "780-30113985",
+          "palletId": "",
+          "nPallets": 0,
+          "pcs": 31,
+          "kg": 0,
+          "netKg": 0,
+          "reason": "weight",
+          "status": "pending",
+          "newFlt": "SH-151",
+          "newDate": "2026-05-11",
+          "notes": ""
+        }
+      ],
+      "logged": "2026-05-11T09:31:11.870Z"
+    }
+  ]
+}
